@@ -1,4 +1,4 @@
-import { CodeXmlIcon, Film, Heart } from "lucide-react";
+import { CodeXmlIcon, Film } from "lucide-react";
 function Footer() {
   return (
     <footer className="border-t border-white/10 bg-slate-950">
