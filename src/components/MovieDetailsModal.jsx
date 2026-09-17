@@ -32,7 +32,6 @@ function MovieDetailsModal({ movie, onClose }) {
 
   const image =
     movie.image?.original ||
-    movie.image?.medium ||
     "https://via.placeholder.com/1000x600?text=No+Image";
 
   const year = movie.premiered
