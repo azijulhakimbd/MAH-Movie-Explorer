@@ -1,4 +1,4 @@
-# 🎬 Movie Explorer
+# 🎬 MAH Movie Explorer
 
 A modern, responsive movie discovery web application built with **React.js** and **Vite**. Users can explore popular movies, search for movies, view detailed information, and manage their favorite movies through a clean, interactive interface.
 
