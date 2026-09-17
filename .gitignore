@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+MovieCard.jsx
+MovieDetailsModal.jsx
+Movies.jsx
+Footer.jsx
+Home.jsx
