@@ -4,9 +4,9 @@ A modern, responsive movie discovery web application built with **React.js** and
 
 ## 🌐 Live Demo
 
-**Live Website:** ([text](https://mah-movie.vercel.app/))
+**Live Website:** (https://mah-movie.vercel.app/)
 
-**GitHub Repository:** ([text](https://github.com/azijulhakimbd/MAH-Movie-Explorer))
+**GitHub Repository:** (https://github.com/azijulhakimbd/MAH-Movie-Explorer)
 
 ---
 
