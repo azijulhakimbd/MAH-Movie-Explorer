@@ -26,7 +26,7 @@ function Navbar() {
           </span>
 
           <span>
-           MAH Movie<span className="text-purple-400">Explorer</span>
+           MAH <span className="text-purple-400">Movie Explorer</span>
           </span>
         </Link>
 
