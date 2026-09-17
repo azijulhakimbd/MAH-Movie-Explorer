@@ -1,4 +1,4 @@
-import { CodeXmlIcon, Film } from "lucide-react";
+import { Clapperboard, CodeXmlIcon } from "lucide-react";
 function Footer() {
   return (
     <footer className="border-t border-white/10 bg-slate-950">
@@ -17,18 +17,15 @@ function Footer() {
               aria-label="MovieExplorer Home"
             >
               {" "}
-              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-cyan-400 to-blue-600 shadow-lg shadow-cyan-500/10 transition-transform duration-300 group-hover:scale-105">
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-purple-600 shadow-lg shadow-cyan-500/10 transition-transform duration-300 group-hover:scale-105">
                 {" "}
-                <Film
-                  size={19}
-                  strokeWidth={2}
-                  className="text-white"
-                  aria-hidden="true"
-                />{" "}
+                <Clapperboard size={20} />
               </div>{" "}
               <span className="whitespace-nowrap text-base font-bold tracking-tight text-white sm:text-lg">
                 {" "}
-                MAH <span className="text-cyan-400">Movie Explorer</span>{" "}
+               <span>
+           MAH <span className="text-purple-400">Movie Explorer</span>
+          </span>
               </span>{" "}
             </a>{" "}
           </div>{" "}
